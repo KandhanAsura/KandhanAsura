@@ -1,4 +1,4 @@
-- 👋 Hi, I’m **@KandhanAsura**
+- 👋 Hi, I’m **@Kandhan**
 - 👀 I’m interested in ...
 - {I'm passionate about **full-stack web development**, **product development**, and **building scalable web applications**. I enjoy working on projects that solve real-world problems and contribute to open-source when I can.}
 - 🌱 I’m currently learning ...{🔧 Advanced concepts in **Python**, **Django**, and **React.js**  
